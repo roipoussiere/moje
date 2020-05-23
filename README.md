@@ -1,5 +1,8 @@
 This is a VoTe with [Majority Judgment](https://en.wikipedia.org/wiki/Majority_judgment).
 
+> **Important note**
+>
+> This project is no longer maintained. Take a look to our new [Majority Judgment API](https://github.com/MieuxVoter/mvapi) and [its client](https://github.com/MieuxVoter/mvfront-react)).
 
 # Installation
 
